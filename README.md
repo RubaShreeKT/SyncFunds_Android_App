@@ -2,10 +2,10 @@
 
 ## 🚀 Project Preview
 
-![SyncFunds Login](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Login_Screen/OTP_Verification_Screen.jpg)
-![SyncFunds Dashboard](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Dashboard/Home_Screen.jpg)
-![SyncFunds Features](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Features/Debtor_Location_Tracking.jpg)
-![SyncFunds App](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/App_Flow/Loan_Entry_Screen.jpg)
+![SyncFunds Login](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Login_Screen/)
+![SyncFunds Dashboard](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Dashboard)
+![SyncFunds Features](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Features/)
+![SyncFunds App](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/App_Flow/)
 
 
 ## Demo Video
