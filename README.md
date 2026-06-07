@@ -2,11 +2,15 @@
 
 ## 🚀 Project Preview
 
-![SyncFunds Preview](screenshots/dashboard.png)
+![SyncFunds Login](Screenshots/Login_Screen.jpg)
+![SyncFunds Dashboard](Screenshots/Dashboard.jpg)
+![SyncFunds App_Flow](Screenshots/App_Flow.jpg)
+![SyncFunds Features](Screenshots/Features.jpg)
+
 
 ## Demo Video
 
-[Download/View Demo](https://github.com/YourRepo/releases/tag/v1.0)
+[Download/View Demo]([https://github.com/YourRepo/releases/tag/v1.0](https://github.com/RubaShreeKT/SyncFunds_Android_App/releases/tag/Video))
 ---
 
 ## 📌 Overview
