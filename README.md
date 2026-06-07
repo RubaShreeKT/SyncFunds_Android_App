@@ -2,15 +2,15 @@
 
 ## 🚀 Project Preview
 
-![SyncFunds Login](Screenshots/Login_Screen.jpg)
-![SyncFunds Dashboard](Screenshots/Dashboard.jpg)
-![SyncFunds App_Flow](Screenshots/App_Flow.jpg)
-![SyncFunds Features](Screenshots/Features.jpg)
+![SyncFunds Login](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Login_Screen/OTP_Verification_Screen.jpg)
+![SyncFunds Dashboard](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Dashboard/Home_Screen.jpg)
+![SyncFunds Features](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/Features/Debtor_Location_Tracking.jpg)
+![SyncFunds App](https://github.com/RubaShreeKT/SyncFunds_Android_App/blob/main/Screenshots/App_Flow/Loan_Entry_Screen.jpg)
 
 
 ## Demo Video
 
-[Download/View Demo]([https://github.com/YourRepo/releases/tag/v1.0](https://github.com/RubaShreeKT/SyncFunds_Android_App/releases/tag/Video))
+![Download/View Demo](https://github.com/RubaShreeKT/SyncFunds_Android_App/releases/tag/Video)
 ---
 
 ## 📌 Overview
@@ -82,19 +82,6 @@ SyncFunds solves these issues through automation, accountability, and real-time 
 
 ---
 
-## 🖼️ Screenshots
-
-### Login Screen
-![Login](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Loan Details
-![Loan](screenshots/loan.png)
-
----
-
 ## 🏗️ System Architecture
 
 ### Frontend
@@ -140,12 +127,6 @@ SyncFunds solves these issues through automation, accountability, and real-time 
 8. Payment Recording  
 9. Automated Reminders  
 10. Settlement Process  
-
----
-
-## 🎥 Demo
-
-👉 Watch Full Demo: https://youtu.be/your-demo-link
 
 ---
 
