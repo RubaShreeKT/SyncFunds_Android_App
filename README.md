@@ -1,5 +1,14 @@
 # SyncFunds – Digital Money Lending & Borrowing Management
 
+## 🚀 Project Preview
+
+![SyncFunds Preview](screenshots/dashboard.png)
+
+## Demo Video
+
+[Download/View Demo](https://github.com/YourRepo/releases/tag/v1.0)
+---
+
 ## 📌 Overview
 
 SyncFunds is an Android-based Peer-to-Peer (P2P) lending and borrowing management application designed to digitize and formalize informal financial transactions between friends, family members, classmates, and colleagues.
@@ -25,147 +34,128 @@ SyncFunds solves these issues through automation, accountability, and real-time 
 
 ---
 
-## 🚀 Key Features
+## ✨ Key Features
 
 ### 🔐 Secure Authentication
 - OTP-based phone number login using Firebase Authentication
-- Secure user onboarding process
 
 ### 👤 User Onboarding
 - Personal profile setup
 - Aadhaar verification
-- Basic financial literacy assessment
 
 ### 💰 Lending & Borrowing Management
-- Users can act as both lenders and borrowers
+- Dual role support (lender & borrower)
 - Manage multiple loans simultaneously
-- Dedicated creditor and debtor dashboards
+- Separate dashboards
 
 ### 🤝 Loan Request System
-- Structured mechanism for connecting lenders and borrowers
-- Loan request and approval workflow
+- Structured loan request & approval workflow
 
 ### 📄 Digital Loan Agreements
-- Automated agreement generation
-- PDF contract export
-- Improved accountability and transparency
+- Automated PDF contract generation
+- Transparent agreement system
 
 ### 📊 Financial Dashboard
-- Total amount lent
-- Total amount borrowed
-- Net financial balance
-- Loan status monitoring
+- Total lent / borrowed amount
+- Net balance tracking
 
 ### 📈 Interest Tracking
 - Automated interest calculation
-- Due amount tracking
-- Interest payment records
+- Due payment tracking
 
 ### 🔔 Automated Notifications
-- Real-time payment reminders
-- Interest due notifications
-- Settlement updates using Firebase Cloud Messaging (FCM)
+- Payment reminders
+- Interest due alerts
+- Firebase Cloud Messaging (FCM)
 
 ### 💵 Payment Management
-- Record loan repayments
-- Lender-side verification
-- Transaction history maintenance
+- Repayment tracking
+- Transaction history
 
 ### ✅ Settlement Workflow
-- Formal loan closure process
-- Settlement confirmation for both parties
+- Loan closure confirmation
+- Mutual settlement system
 
-### 📝 Audit Trail
-- Complete history of lending and borrowing activities
-- Transparent transaction records
+---
+
+## 🖼️ Screenshots
+
+### Login Screen
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Loan Details
+![Loan](screenshots/loan.png)
 
 ---
 
 ## 🏗️ System Architecture
 
-The application follows a modern Android-Firebase architecture:
-
 ### Frontend
 - Java
-- XML Layouts
-- Material Design Components
+- XML (Android UI)
+- Material Design
 
 ### Backend
 - Firebase Realtime Database
 - Firebase Storage
 
 ### Authentication
-- Firebase Phone Authentication (OTP Login)
+- Firebase Phone Authentication (OTP)
 
 ### Notifications
 - Firebase Cloud Messaging (FCM)
 
-### Platform Support
-- Minimum SDK: 23
-- Target SDK: 34
-
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-| Component | Technology |
-|------------|------------|
-| Programming Language | Java |
-| UI Design | XML Layouts, Material Design |
-| Authentication | Firebase Phone Auth |
-| Database | Firebase Realtime Database |
+| Layer | Technology |
+|------|------------|
+| Language | Java |
+| UI | XML, Material Design |
+| Backend | Firebase Realtime DB |
+| Auth | Firebase OTP |
 | Storage | Firebase Storage |
-| Notifications | Firebase Cloud Messaging (FCM) |
-| Document Generation | PDF Export |
+| Notifications | FCM |
 | Platform | Android |
 
 ---
 
 ## 🔄 Workflow
 
-1. User Registration & OTP Verification
-2. Profile Setup & Verification
-3. Loan Request Creation
-4. Loan Approval
-5. Digital Agreement Generation
-6. Loan Disbursement
-7. Interest Tracking
-8. Payment Recording
-9. Automated Reminders
-10. Loan Settlement
-11. Audit Trail Maintenance
+1. User Registration & OTP Login  
+2. Profile Setup  
+3. Loan Request Creation  
+4. Loan Approval  
+5. Digital Agreement Generation  
+6. Loan Disbursement  
+7. Interest Tracking  
+8. Payment Recording  
+9. Automated Reminders  
+10. Settlement Process  
 
 ---
 
-## ✨ Highlights
+## 🎥 Demo
 
-- End-to-end digital lending lifecycle management
-- Secure OTP-based authentication
-- Digital loan agreements with PDF generation
-- Automated interest scheduling
-- Real-time push notifications
-- Dual-role support (Lender & Borrower)
-- Complete transaction transparency
-- Formal settlement workflow
-- Scalable Firebase-powered architecture
+👉 Watch Full Demo: https://youtu.be/your-demo-link
 
 ---
 
 ## 🔮 Future Enhancements
 
-Planned improvements include:
-
-- UPI Payment Integration
-- Aadhaar e-Sign via DigiLocker
-- Credit Score Calculation
-- SMS Reminder Gateway
-- WhatsApp Reminder Integration
-- Multi-language Support
-- Advanced Financial Analytics
-- Loan Risk Assessment
+- UPI Payment Integration  
+- Aadhaar e-Sign (DigiLocker)  
+- Credit Score System  
+- SMS + WhatsApp reminders  
+- Financial analytics dashboard  
+- Loan risk prediction  
 
 ---
 
 ## 📚 Project Summary
 
-SyncFunds successfully digitizes the entire informal lending process by providing secure authentication, digital agreements, automated interest tracking, payment management, settlement workflows, and real-time notifications. The platform aims to improve trust, transparency, and accountability in personal lending and borrowing transactions while offering a scalable foundation for future financial services.
+SyncFunds digitizes informal lending by introducing secure authentication, structured loan workflows, automated tracking, and real-time notifications. It improves transparency, accountability, and trust between users while providing a scalable financial management platform.
